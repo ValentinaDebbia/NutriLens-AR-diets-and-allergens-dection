@@ -1,4 +1,4 @@
-# NutriLens-AR-diets-and-allergens-dection
+# NutriLens: diets and allergens dection with AR
 
 This repository contains the prototype implementation of NutriLens, an iOS application designed to enhance dietary awareness and allergen screening, developed for the Mobile Application Development for Mobile Devices course (A.Y. 2025/2026, University of Milan).
 
